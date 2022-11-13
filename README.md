@@ -16,6 +16,7 @@ This project is open source and available under the **BSD License**. Meaning you
 <h3><b><u><center>Target</center></u></b></h3>
 After surviving the corona associated business crash, the American bike sharing company <b>BoomBikes</b> has hired us to predict forthcoming demand of the bikes to deploy the precious and now diminished resources where the returns can be highest.
 
+> Produced Dataset day.csv is in datasets/ directory
 
 <h3><b><u>Required Outcome</u></b></h3>
 The company wants to know:
@@ -36,7 +37,7 @@ Final File Structure,
 > Final Jupyter-Lab Notebook Converted to machine executable Python Script.
 
 **3. Datasets**
-> loan.csv is in dataset/ directory
+> day.csv is in datasets/ directory
 
 <br>
 

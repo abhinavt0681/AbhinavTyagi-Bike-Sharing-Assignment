@@ -13,10 +13,17 @@ This project is open source and available under the **BSD License**. Meaning you
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+<h3><b><u><center>Target</center></u></b></h3>
+After surviving the corona associated business crash, the American bike sharing company <b>BoomBikes</b> has hired us to predict forthcoming demand of the bikes to deploy the precious and now diminished resources where the returns can be highest.
+
+
+<h3><b><u>Required Outcome</u></b></h3>
+The company wants to know:
+<ol>
+    <li><b><i>Variables significant in predicting the demand for shared bikes</i></b></li>
+<li><b><i>How well those variables describe the bike demands</i></b></li>
+</ol>
+<div align="right"><i>let's give them what they want...</i></div>
 
 
 ## Conclusions

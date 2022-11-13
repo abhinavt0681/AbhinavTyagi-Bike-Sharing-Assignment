@@ -1,7 +1,7 @@
 ***License**
 This project is open source and available under the **BSD License**. Meaning you can copy and commercialise this. :-)*
 
-**Bookings Predictor For Bikes**
+# **Bookings Predictor For Bikes**
 > A Data Set has been presented to us with information about bike bookings and various associated factors. We are expected to make an ML predictor of future demand so the company can deploy its resources accordingly.
 
 
